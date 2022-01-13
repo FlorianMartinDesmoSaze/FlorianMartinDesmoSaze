@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlorianMartinDesmoSaze
 - 👀 I’m interested in web developpement
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : martinflorian2@gmail.com
