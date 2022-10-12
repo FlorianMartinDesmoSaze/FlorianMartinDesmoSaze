@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlorianMartinDesmoSaze
 - 👀 I’m interested in web developpement
-- 🌱 I’m currently learning javascript and PHP
+- 🌱 I’m currently learning React.js, ReactAdmin, Next.js and some more techno that works well with react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : martinflorian2@gmail.com
